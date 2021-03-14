@@ -1,4 +1,4 @@
-#Landing Page Project #2
+# Landing Page Project
 
 The aim of this front-end focused project was to create a multi-section real-world scenario of manipulating the DOM and to fully combine my HTML, CSS, and JavaScript skills that I had at that particular moment while doing the Front End Web Developer Nanogeree program at Udacity.
 Most of the content is being appended dynamically using JS, refactoring and testeing played an important role for this to work-out well in the end.
